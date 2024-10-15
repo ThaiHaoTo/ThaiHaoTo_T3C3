@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hạo</h1> <h3 align="center">Just a normal person with some normal skills</h3> <p align="center"> <img width="200" height="100" src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Software Development"> </p>
+<h1 align="center">Hi 👋, I'm Hạo</h1> <h3 align="center">Just a normal person with some normal skills</h3> <p align="center"> <img width="400" height="200" src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Software Development"> </p>
 🔭 I’m currently working on a shoe shop project named Karma.
 💬 Feel free to ask me about anything related to my project!
 📫 You can reach me at thaihaoto@gmail.com.
